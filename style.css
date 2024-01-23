@@ -108,7 +108,7 @@ html{
   }
   .extradiv p{text-align: justify;}
   .extradiv{
-    background-color: #fff;
+    background-color: #eceaea;
     border: none;
     padding: 30px!important;
     border-radius: 3px;
@@ -126,7 +126,7 @@ html{
   .serviceoffers{
     background-color: #f7f7f9;
     padding: 50px 0;
-    margin-bottom: 50px;
+    margin-bottom: 51px;
   }
   .headings{
     margin-bottom: 50px;
